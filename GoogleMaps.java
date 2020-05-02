@@ -34,7 +34,7 @@ public class GoogleMaps {
 	ArrayList<String> location; // Name and address of the actual location.
 
 	public GoogleMaps(int width, int height, double latitude, double longitude) { // Creates Google Maps object.
-		this.apiKey = "AIzaSyBw_tDw9SydjFNaSgQuGcCXpdantoZ3urc";
+		this.apiKey = "";
 		this.width = width;
 		this.height = height;
 		this.latitude = latitude;
